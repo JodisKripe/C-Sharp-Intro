@@ -4,5 +4,8 @@
     {
         Console.WriteLine("Collections!\n\n");
         Lists.run();
+        Dictionary.run();
+        HashTable.run();
+        Qu.run();
     }
 }
