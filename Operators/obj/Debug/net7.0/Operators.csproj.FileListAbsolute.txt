@@ -1,0 +1,15 @@
+/home/jodis/opt/C-Sharp-Intro/Operators/bin/Debug/net7.0/Operators
+/home/jodis/opt/C-Sharp-Intro/Operators/bin/Debug/net7.0/Operators.deps.json
+/home/jodis/opt/C-Sharp-Intro/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/home/jodis/opt/C-Sharp-Intro/Operators/bin/Debug/net7.0/Operators.dll
+/home/jodis/opt/C-Sharp-Intro/Operators/bin/Debug/net7.0/Operators.pdb
+/home/jodis/opt/C-Sharp-Intro/Operators/obj/Debug/net7.0/Operators.csproj.AssemblyReference.cache
+/home/jodis/opt/C-Sharp-Intro/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/jodis/opt/C-Sharp-Intro/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/home/jodis/opt/C-Sharp-Intro/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/home/jodis/opt/C-Sharp-Intro/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/home/jodis/opt/C-Sharp-Intro/Operators/obj/Debug/net7.0/Operators.dll
+/home/jodis/opt/C-Sharp-Intro/Operators/obj/Debug/net7.0/refint/Operators.dll
+/home/jodis/opt/C-Sharp-Intro/Operators/obj/Debug/net7.0/Operators.pdb
+/home/jodis/opt/C-Sharp-Intro/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/home/jodis/opt/C-Sharp-Intro/Operators/obj/Debug/net7.0/ref/Operators.dll
