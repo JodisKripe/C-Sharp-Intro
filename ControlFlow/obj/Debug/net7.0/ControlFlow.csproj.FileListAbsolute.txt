@@ -1,0 +1,15 @@
+/home/jodis/opt/C-Sharp-Intro/ControlFlow/bin/Debug/net7.0/ControlFlow
+/home/jodis/opt/C-Sharp-Intro/ControlFlow/bin/Debug/net7.0/ControlFlow.deps.json
+/home/jodis/opt/C-Sharp-Intro/ControlFlow/bin/Debug/net7.0/ControlFlow.runtimeconfig.json
+/home/jodis/opt/C-Sharp-Intro/ControlFlow/bin/Debug/net7.0/ControlFlow.dll
+/home/jodis/opt/C-Sharp-Intro/ControlFlow/bin/Debug/net7.0/ControlFlow.pdb
+/home/jodis/opt/C-Sharp-Intro/ControlFlow/obj/Debug/net7.0/ControlFlow.csproj.AssemblyReference.cache
+/home/jodis/opt/C-Sharp-Intro/ControlFlow/obj/Debug/net7.0/ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+/home/jodis/opt/C-Sharp-Intro/ControlFlow/obj/Debug/net7.0/ControlFlow.AssemblyInfoInputs.cache
+/home/jodis/opt/C-Sharp-Intro/ControlFlow/obj/Debug/net7.0/ControlFlow.AssemblyInfo.cs
+/home/jodis/opt/C-Sharp-Intro/ControlFlow/obj/Debug/net7.0/ControlFlow.csproj.CoreCompileInputs.cache
+/home/jodis/opt/C-Sharp-Intro/ControlFlow/obj/Debug/net7.0/ControlFlow.dll
+/home/jodis/opt/C-Sharp-Intro/ControlFlow/obj/Debug/net7.0/refint/ControlFlow.dll
+/home/jodis/opt/C-Sharp-Intro/ControlFlow/obj/Debug/net7.0/ControlFlow.pdb
+/home/jodis/opt/C-Sharp-Intro/ControlFlow/obj/Debug/net7.0/ControlFlow.genruntimeconfig.cache
+/home/jodis/opt/C-Sharp-Intro/ControlFlow/obj/Debug/net7.0/ref/ControlFlow.dll
