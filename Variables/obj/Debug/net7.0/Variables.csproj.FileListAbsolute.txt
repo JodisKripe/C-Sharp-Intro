@@ -1,0 +1,15 @@
+/home/jodis/opt/C-Sharp-Intro/Variables/obj/Debug/net7.0/Variables.csproj.AssemblyReference.cache
+/home/jodis/opt/C-Sharp-Intro/Variables/obj/Debug/net7.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/jodis/opt/C-Sharp-Intro/Variables/obj/Debug/net7.0/Variables.AssemblyInfoInputs.cache
+/home/jodis/opt/C-Sharp-Intro/Variables/obj/Debug/net7.0/Variables.AssemblyInfo.cs
+/home/jodis/opt/C-Sharp-Intro/Variables/obj/Debug/net7.0/Variables.csproj.CoreCompileInputs.cache
+/home/jodis/opt/C-Sharp-Intro/Variables/bin/Debug/net7.0/Variables
+/home/jodis/opt/C-Sharp-Intro/Variables/bin/Debug/net7.0/Variables.deps.json
+/home/jodis/opt/C-Sharp-Intro/Variables/bin/Debug/net7.0/Variables.runtimeconfig.json
+/home/jodis/opt/C-Sharp-Intro/Variables/bin/Debug/net7.0/Variables.dll
+/home/jodis/opt/C-Sharp-Intro/Variables/bin/Debug/net7.0/Variables.pdb
+/home/jodis/opt/C-Sharp-Intro/Variables/obj/Debug/net7.0/Variables.dll
+/home/jodis/opt/C-Sharp-Intro/Variables/obj/Debug/net7.0/refint/Variables.dll
+/home/jodis/opt/C-Sharp-Intro/Variables/obj/Debug/net7.0/Variables.pdb
+/home/jodis/opt/C-Sharp-Intro/Variables/obj/Debug/net7.0/Variables.genruntimeconfig.cache
+/home/jodis/opt/C-Sharp-Intro/Variables/obj/Debug/net7.0/ref/Variables.dll

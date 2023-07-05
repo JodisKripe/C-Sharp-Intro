@@ -1,0 +1,15 @@
+/home/jodis/opt/C-Sharp-Intro/DataTypes/obj/Debug/net7.0/DataTypes.csproj.AssemblyReference.cache
+/home/jodis/opt/C-Sharp-Intro/DataTypes/obj/Debug/net7.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/jodis/opt/C-Sharp-Intro/DataTypes/obj/Debug/net7.0/DataTypes.AssemblyInfoInputs.cache
+/home/jodis/opt/C-Sharp-Intro/DataTypes/obj/Debug/net7.0/DataTypes.AssemblyInfo.cs
+/home/jodis/opt/C-Sharp-Intro/DataTypes/obj/Debug/net7.0/DataTypes.csproj.CoreCompileInputs.cache
+/home/jodis/opt/C-Sharp-Intro/DataTypes/bin/Debug/net7.0/DataTypes
+/home/jodis/opt/C-Sharp-Intro/DataTypes/bin/Debug/net7.0/DataTypes.deps.json
+/home/jodis/opt/C-Sharp-Intro/DataTypes/bin/Debug/net7.0/DataTypes.runtimeconfig.json
+/home/jodis/opt/C-Sharp-Intro/DataTypes/bin/Debug/net7.0/DataTypes.dll
+/home/jodis/opt/C-Sharp-Intro/DataTypes/bin/Debug/net7.0/DataTypes.pdb
+/home/jodis/opt/C-Sharp-Intro/DataTypes/obj/Debug/net7.0/DataTypes.dll
+/home/jodis/opt/C-Sharp-Intro/DataTypes/obj/Debug/net7.0/refint/DataTypes.dll
+/home/jodis/opt/C-Sharp-Intro/DataTypes/obj/Debug/net7.0/DataTypes.pdb
+/home/jodis/opt/C-Sharp-Intro/DataTypes/obj/Debug/net7.0/DataTypes.genruntimeconfig.cache
+/home/jodis/opt/C-Sharp-Intro/DataTypes/obj/Debug/net7.0/ref/DataTypes.dll
