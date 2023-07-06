@@ -1,0 +1,15 @@
+/home/jodis/opt/C-Sharp-Intro/ClassesAndMethods/obj/Debug/net7.0/ClassesAndMethods.csproj.AssemblyReference.cache
+/home/jodis/opt/C-Sharp-Intro/ClassesAndMethods/obj/Debug/net7.0/ClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/jodis/opt/C-Sharp-Intro/ClassesAndMethods/obj/Debug/net7.0/ClassesAndMethods.AssemblyInfoInputs.cache
+/home/jodis/opt/C-Sharp-Intro/ClassesAndMethods/obj/Debug/net7.0/ClassesAndMethods.AssemblyInfo.cs
+/home/jodis/opt/C-Sharp-Intro/ClassesAndMethods/obj/Debug/net7.0/ClassesAndMethods.csproj.CoreCompileInputs.cache
+/home/jodis/opt/C-Sharp-Intro/ClassesAndMethods/bin/Debug/net7.0/ClassesAndMethods
+/home/jodis/opt/C-Sharp-Intro/ClassesAndMethods/bin/Debug/net7.0/ClassesAndMethods.deps.json
+/home/jodis/opt/C-Sharp-Intro/ClassesAndMethods/bin/Debug/net7.0/ClassesAndMethods.runtimeconfig.json
+/home/jodis/opt/C-Sharp-Intro/ClassesAndMethods/bin/Debug/net7.0/ClassesAndMethods.dll
+/home/jodis/opt/C-Sharp-Intro/ClassesAndMethods/bin/Debug/net7.0/ClassesAndMethods.pdb
+/home/jodis/opt/C-Sharp-Intro/ClassesAndMethods/obj/Debug/net7.0/ClassesAndMethods.dll
+/home/jodis/opt/C-Sharp-Intro/ClassesAndMethods/obj/Debug/net7.0/refint/ClassesAndMethods.dll
+/home/jodis/opt/C-Sharp-Intro/ClassesAndMethods/obj/Debug/net7.0/ClassesAndMethods.pdb
+/home/jodis/opt/C-Sharp-Intro/ClassesAndMethods/obj/Debug/net7.0/ClassesAndMethods.genruntimeconfig.cache
+/home/jodis/opt/C-Sharp-Intro/ClassesAndMethods/obj/Debug/net7.0/ref/ClassesAndMethods.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ClassesAndMethods/1.0.0": {
+        "runtime": {
+          "ClassesAndMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassesAndMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
