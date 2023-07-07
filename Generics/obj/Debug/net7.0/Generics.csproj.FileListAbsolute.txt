@@ -1,0 +1,15 @@
+/home/jodis/opt/C-Sharp-Intro/Generics/obj/Debug/net7.0/Generics.csproj.AssemblyReference.cache
+/home/jodis/opt/C-Sharp-Intro/Generics/obj/Debug/net7.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/home/jodis/opt/C-Sharp-Intro/Generics/obj/Debug/net7.0/Generics.AssemblyInfoInputs.cache
+/home/jodis/opt/C-Sharp-Intro/Generics/obj/Debug/net7.0/Generics.AssemblyInfo.cs
+/home/jodis/opt/C-Sharp-Intro/Generics/obj/Debug/net7.0/Generics.csproj.CoreCompileInputs.cache
+/home/jodis/opt/C-Sharp-Intro/Generics/bin/Debug/net7.0/Generics
+/home/jodis/opt/C-Sharp-Intro/Generics/bin/Debug/net7.0/Generics.deps.json
+/home/jodis/opt/C-Sharp-Intro/Generics/bin/Debug/net7.0/Generics.runtimeconfig.json
+/home/jodis/opt/C-Sharp-Intro/Generics/bin/Debug/net7.0/Generics.dll
+/home/jodis/opt/C-Sharp-Intro/Generics/bin/Debug/net7.0/Generics.pdb
+/home/jodis/opt/C-Sharp-Intro/Generics/obj/Debug/net7.0/Generics.dll
+/home/jodis/opt/C-Sharp-Intro/Generics/obj/Debug/net7.0/refint/Generics.dll
+/home/jodis/opt/C-Sharp-Intro/Generics/obj/Debug/net7.0/Generics.pdb
+/home/jodis/opt/C-Sharp-Intro/Generics/obj/Debug/net7.0/Generics.genruntimeconfig.cache
+/home/jodis/opt/C-Sharp-Intro/Generics/obj/Debug/net7.0/ref/Generics.dll
