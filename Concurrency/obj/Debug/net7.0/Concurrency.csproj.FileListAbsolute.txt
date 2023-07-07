@@ -1,0 +1,15 @@
+/home/jodis/opt/C-Sharp-Intro/Concurrency/obj/Debug/net7.0/Concurrency.csproj.AssemblyReference.cache
+/home/jodis/opt/C-Sharp-Intro/Concurrency/obj/Debug/net7.0/Concurrency.GeneratedMSBuildEditorConfig.editorconfig
+/home/jodis/opt/C-Sharp-Intro/Concurrency/obj/Debug/net7.0/Concurrency.AssemblyInfoInputs.cache
+/home/jodis/opt/C-Sharp-Intro/Concurrency/obj/Debug/net7.0/Concurrency.AssemblyInfo.cs
+/home/jodis/opt/C-Sharp-Intro/Concurrency/obj/Debug/net7.0/Concurrency.csproj.CoreCompileInputs.cache
+/home/jodis/opt/C-Sharp-Intro/Concurrency/bin/Debug/net7.0/Concurrency
+/home/jodis/opt/C-Sharp-Intro/Concurrency/bin/Debug/net7.0/Concurrency.deps.json
+/home/jodis/opt/C-Sharp-Intro/Concurrency/bin/Debug/net7.0/Concurrency.runtimeconfig.json
+/home/jodis/opt/C-Sharp-Intro/Concurrency/bin/Debug/net7.0/Concurrency.dll
+/home/jodis/opt/C-Sharp-Intro/Concurrency/bin/Debug/net7.0/Concurrency.pdb
+/home/jodis/opt/C-Sharp-Intro/Concurrency/obj/Debug/net7.0/Concurrency.dll
+/home/jodis/opt/C-Sharp-Intro/Concurrency/obj/Debug/net7.0/refint/Concurrency.dll
+/home/jodis/opt/C-Sharp-Intro/Concurrency/obj/Debug/net7.0/Concurrency.pdb
+/home/jodis/opt/C-Sharp-Intro/Concurrency/obj/Debug/net7.0/Concurrency.genruntimeconfig.cache
+/home/jodis/opt/C-Sharp-Intro/Concurrency/obj/Debug/net7.0/ref/Concurrency.dll
