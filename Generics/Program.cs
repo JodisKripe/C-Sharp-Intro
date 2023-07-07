@@ -4,5 +4,6 @@
     {
         Console.WriteLine("Generics!!");
         GenericTypes.run();
+        Constraints.run();
     }
 }

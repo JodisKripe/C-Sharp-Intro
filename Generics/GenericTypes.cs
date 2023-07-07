@@ -6,11 +6,11 @@ using System;
 
 
 [Serializable]
-internal class Person{
-    [JsonPropertyName("first_name")] public string FirstName {get;set;}
-    [JsonPropertyName("last_name")] public string LastName {get;set;}
-    [JsonPropertyName("full_name")] public string FullName => $"{FirstName} {LastName}";
-}
+// internal class Person{
+//     [JsonPropertyName("first_name")] public string FirstName {get;set;}
+//     [JsonPropertyName("last_name")] public string LastName {get;set;}
+//     [JsonPropertyName("full_name")] public string FullName => $"{FirstName} {LastName}";
+// }
 
 class GenericTypes{
     internal static byte[] SerializePerson(Person person){
