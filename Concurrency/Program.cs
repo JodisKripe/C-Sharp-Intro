@@ -7,6 +7,7 @@ await Task.WhenAll(t1,t2);
 Console.WriteLine($"{t1}\t\t{t2}");
 ThreadingCode.run();
 ParallelCode.run();
+channels.run();
     // await Task.WhenAll(t1,t2);
 int LOOP(){
     int i;
