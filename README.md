@@ -19,11 +19,15 @@ https://learn.microsoft.com/en-gb/dotnet/core/install/linux-fedora
 C# uses different text casing depending on where it's being declared. Here is a summary of the conventions:
 
 Object Casing
-Classes PascalCase
-Public Members PascalCase
-Private Members \_camelCase
-Methods PascalCase
-Variables camelCase
-Enums PascalCase
 
-We'll see many of these other types as we progress through the course.
+Classes PascalCase
+
+Public Members PascalCase
+
+Private Members \_camelCase
+
+Methods PascalCase
+
+Variables camelCase
+
+Enums PascalCase
