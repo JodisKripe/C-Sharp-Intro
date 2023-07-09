@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "envo2UBXz2Vku++oMOrOe14aVqBVXNnAr9VcGc8lzJs74IWvRp0Y4/yUnp2IbCURSQH8qf5UqTzCEXC01tS5GA==",
+  "success": true,
+  "projectFilePath": "/home/jodis/opt/C-Sharp-Intro/NuGet/NuGet.csproj",
+  "expectedPackageFiles": [
+    "/home/jodis/.nuget/packages/restsharp/110.2.0/restsharp.110.2.0.nupkg.sha512",
+    "/home/jodis/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/home/jodis/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

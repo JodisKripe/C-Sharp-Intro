@@ -1,0 +1,17 @@
+/home/jodis/opt/C-Sharp-Intro/NuGet/obj/Debug/net7.0/NuGet.csproj.AssemblyReference.cache
+/home/jodis/opt/C-Sharp-Intro/NuGet/obj/Debug/net7.0/NuGet.GeneratedMSBuildEditorConfig.editorconfig
+/home/jodis/opt/C-Sharp-Intro/NuGet/obj/Debug/net7.0/NuGet.AssemblyInfoInputs.cache
+/home/jodis/opt/C-Sharp-Intro/NuGet/obj/Debug/net7.0/NuGet.AssemblyInfo.cs
+/home/jodis/opt/C-Sharp-Intro/NuGet/obj/Debug/net7.0/NuGet.csproj.CoreCompileInputs.cache
+/home/jodis/opt/C-Sharp-Intro/NuGet/bin/Debug/net7.0/NuGet
+/home/jodis/opt/C-Sharp-Intro/NuGet/bin/Debug/net7.0/NuGet.deps.json
+/home/jodis/opt/C-Sharp-Intro/NuGet/bin/Debug/net7.0/NuGet.runtimeconfig.json
+/home/jodis/opt/C-Sharp-Intro/NuGet/bin/Debug/net7.0/NuGet.dll
+/home/jodis/opt/C-Sharp-Intro/NuGet/bin/Debug/net7.0/NuGet.pdb
+/home/jodis/opt/C-Sharp-Intro/NuGet/bin/Debug/net7.0/RestSharp.dll
+/home/jodis/opt/C-Sharp-Intro/NuGet/obj/Debug/net7.0/NuGet.csproj.CopyComplete
+/home/jodis/opt/C-Sharp-Intro/NuGet/obj/Debug/net7.0/NuGet.dll
+/home/jodis/opt/C-Sharp-Intro/NuGet/obj/Debug/net7.0/refint/NuGet.dll
+/home/jodis/opt/C-Sharp-Intro/NuGet/obj/Debug/net7.0/NuGet.pdb
+/home/jodis/opt/C-Sharp-Intro/NuGet/obj/Debug/net7.0/NuGet.genruntimeconfig.cache
+/home/jodis/opt/C-Sharp-Intro/NuGet/obj/Debug/net7.0/ref/NuGet.dll
