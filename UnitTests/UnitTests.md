@@ -21,3 +21,13 @@ Now it's time to write our tests - I'll just cover the Add method as an example.
 >     }
 >
 > }
+
+These are relatively simple - we can provide multiple sets of data so that a single test can be run multiple times. We have to know ahead of time what the result of each test should be so that we can compare an expected value with the actual value.
+
+The tests can be run directly in Rider via the Tests menu.
+
+These tests can also be triggered from the command line with
+
+> dotnet test
+
+Unit testing can be integrated into CI/CD pipelines for full automation of test, build, and deploy. You can find more information about that in our DevOps for Pentesters course.

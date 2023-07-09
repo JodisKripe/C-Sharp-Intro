@@ -1,0 +1,15 @@
+/home/jodis/opt/C-Sharp-Intro/CapstoneProject/obj/Debug/net7.0/CapstoneProject.csproj.AssemblyReference.cache
+/home/jodis/opt/C-Sharp-Intro/CapstoneProject/obj/Debug/net7.0/CapstoneProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/jodis/opt/C-Sharp-Intro/CapstoneProject/obj/Debug/net7.0/CapstoneProject.AssemblyInfoInputs.cache
+/home/jodis/opt/C-Sharp-Intro/CapstoneProject/obj/Debug/net7.0/CapstoneProject.AssemblyInfo.cs
+/home/jodis/opt/C-Sharp-Intro/CapstoneProject/obj/Debug/net7.0/CapstoneProject.csproj.CoreCompileInputs.cache
+/home/jodis/opt/C-Sharp-Intro/CapstoneProject/bin/Debug/net7.0/CapstoneProject
+/home/jodis/opt/C-Sharp-Intro/CapstoneProject/bin/Debug/net7.0/CapstoneProject.deps.json
+/home/jodis/opt/C-Sharp-Intro/CapstoneProject/bin/Debug/net7.0/CapstoneProject.runtimeconfig.json
+/home/jodis/opt/C-Sharp-Intro/CapstoneProject/bin/Debug/net7.0/CapstoneProject.dll
+/home/jodis/opt/C-Sharp-Intro/CapstoneProject/bin/Debug/net7.0/CapstoneProject.pdb
+/home/jodis/opt/C-Sharp-Intro/CapstoneProject/obj/Debug/net7.0/CapstoneProject.dll
+/home/jodis/opt/C-Sharp-Intro/CapstoneProject/obj/Debug/net7.0/refint/CapstoneProject.dll
+/home/jodis/opt/C-Sharp-Intro/CapstoneProject/obj/Debug/net7.0/CapstoneProject.pdb
+/home/jodis/opt/C-Sharp-Intro/CapstoneProject/obj/Debug/net7.0/CapstoneProject.genruntimeconfig.cache
+/home/jodis/opt/C-Sharp-Intro/CapstoneProject/obj/Debug/net7.0/ref/CapstoneProject.dll
